@@ -1,1 +1,5 @@
-*
+*.repositories
+*.sha1
+*.pom
+*.lastUpdated
+*.gitignore
